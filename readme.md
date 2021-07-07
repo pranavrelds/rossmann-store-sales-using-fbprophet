@@ -1,5 +1,5 @@
 # Problem Statement
-forecast the sales of the stores
+Forecast the sales of the stores
 
 Description of data
 * Id - an Id that represents a (Store, Date) duple within the test set
